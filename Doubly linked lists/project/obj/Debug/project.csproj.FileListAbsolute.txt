@@ -1,0 +1,34 @@
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormMain.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormTypeData.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive\C#\project.2.One\project\project\bin\Debug\project.exe.config
+E:\OneDrive\C#\project.2.One\project\project\bin\Debug\project.exe
+E:\OneDrive\C#\project.2.One\project\project\bin\Debug\project.pdb
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.exe
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.pdb
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormTask.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormDialog_ok_notOk.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormInputElement.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormConvertElement.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormConvertType.resources
+E:\OneDrive\C#\project.2.One\project\project\obj\Debug\project.FormCondition.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\bin\Debug\project.exe.config
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\bin\Debug\project.exe
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\bin\Debug\project.pdb
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormCondition.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormConvertElement.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormConvertType.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormDialog_ok_notOk.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormInputElement.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormMain.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormTask.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.FormTypeData.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.exe
+E:\OneDrive - ВГУ\C#\project.2.One\project\project\obj\Debug\project.pdb
