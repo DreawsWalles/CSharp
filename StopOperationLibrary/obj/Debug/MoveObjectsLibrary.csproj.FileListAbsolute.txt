@@ -1,0 +1,12 @@
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\bin\Debug\StopOperationLibrary.dll
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\bin\Debug\StopOperationLibrary.pdb
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\bin\Debug\TaskFour.exe
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\bin\Debug\TaskFour.pdb
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\bin\Debug\TaskFour.exe.config
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\obj\Debug\MoveObjectsLibrary.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\obj\Debug\StopOperationLibrary.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\obj\Debug\MoveObjectsLibrary.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\obj\Debug\MoveObjectsLibrary.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\obj\Debug\MoveObjectsLibrary.csproj.CopyComplete
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\obj\Debug\StopOperationLibrary.dll
+D:\OneDrive - ВГУ\C#\C#_2курс\project\StopOperationLibrary\obj\Debug\StopOperationLibrary.pdb

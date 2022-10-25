@@ -1,0 +1,12 @@
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\bin\Debug\TaskFour.exe.config
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\bin\Debug\TaskFour.exe
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\bin\Debug\TaskFour.pdb
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.FormChoice.resources
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.FormMain.resources
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.exe
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskFour\obj\Debug\TaskFour.pdb
