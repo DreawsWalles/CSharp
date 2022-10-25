@@ -1,0 +1,11 @@
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\bin\Debug\TaskOne.exe.config
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\bin\Debug\TaskOne.exe
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\bin\Debug\TaskOne.pdb
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.FormMain.resources
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.exe
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskOne\obj\Debug\TaskOne.pdb
