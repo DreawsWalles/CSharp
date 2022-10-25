@@ -1,0 +1,30 @@
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\bin\Debug\project.exe.config
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\bin\Debug\project.exe
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\bin\Debug\project.pdb
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.FormInputFileName.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.exe
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.pdb
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.FormMain.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.FormInputElement.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.FormInput.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.Externalsorting.2C\project\obj\Debug\project.FormSortElements.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\bin\Debug\project.exe.config
+E:\OneDrive - ВГУ\Курсовик 2курс\project\bin\Debug\project.exe
+E:\OneDrive - ВГУ\Курсовик 2курс\project\bin\Debug\project.pdb
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.exe
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.pdb
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.FrmInput.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.FrmInputElement.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.FrmMain.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.FrmInputFileName.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.FrmSortElements.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.FrmLoadOrCreateFile.resources
+E:\OneDrive - ВГУ\Курсовик 2курс\project\obj\Debug\project.FrmSetting.resources
