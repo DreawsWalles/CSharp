@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "708c0a2f-f11c-4946-8ab3-948d1ca45dff": {
+      "ProjectGuid": "708c0a2f-f11c-4946-8ab3-948d1ca45dff",
+      "DisplayName": "project.NumericalDifferentiation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\bin\Debug\project.NumericalDifferentiation.exe.config
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\bin\Debug\project.NumericalDifferentiation.exe
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\bin\Debug\project.NumericalDifferentiation.pdb
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.exe
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.pdb
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\bin\Debug\ru\project.NumericalDifferentiation.resources.dll
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\ru\project.NumericalDifferentiation.resources.dll
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.Form.resources
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.NumericalDifferentiation\obj\Debug\project.NumericalDifferentiation.Form.ru.resources
