@@ -1,0 +1,9 @@
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\bin\Debug\task3.exe.config
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\bin\Debug\task3.exe
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\bin\Debug\task3.pdb
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\obj\Debug\task3.csprojResolveAssemblyReference.cache
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\obj\Debug\task3.Properties.Resources.resources
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\obj\Debug\task3.csproj.GenerateResource.Cache
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\obj\Debug\task3.exe
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\obj\Debug\task3.pdb
+c:\users\анастасия\documents\visual studio 2015\Projects\task3\task3\obj\Debug\task3.FormMain.resources

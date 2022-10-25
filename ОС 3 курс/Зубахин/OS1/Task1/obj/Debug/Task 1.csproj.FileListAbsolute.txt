@@ -1,0 +1,27 @@
+C:\Users\citizenfour\Desktop\Task1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\citizenfour\Desktop\Task1\Task1\bin\Debug\ThreadsTask_1.exe
+C:\Users\citizenfour\Desktop\Task1\Task1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\citizenfour\Desktop\Task1\Task1\obj\Debug\Task1.main_frm.resources
+C:\Users\citizenfour\Desktop\Task1\Task1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\citizenfour\Desktop\Task1\Task1\obj\Debug\Task 1.csproj.GenerateResource.Cache
+C:\Users\citizenfour\Desktop\Task1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\citizenfour\Desktop\Task1\Task1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\citizenfour\Desktop\OS1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\citizenfour\Desktop\OS1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\citizenfour\Desktop\OS1\Task1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\citizenfour\Desktop\OS1\Task1\bin\Debug\ThreadsTask_1.exe
+C:\Users\citizenfour\Desktop\OS1\Task1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\citizenfour\Desktop\OS1\Task1\obj\Debug\Task 1.csprojResolveAssemblyReference.cache
+C:\Users\citizenfour\Desktop\OS1\Task1\obj\Debug\Task1.main_frm.resources
+C:\Users\citizenfour\Desktop\OS1\Task1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\citizenfour\Desktop\OS1\Task1\obj\Debug\Task 1.csproj.GenerateResource.Cache
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\bin\Debug\ThreadsTask_1.exe
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\obj\Debug\Task1.main_frm.resources
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\obj\Debug\Task 1.csproj.GenerateResource.cache
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\spits\Desktop\ОС 3 курс\Зубахин\OS1\Task1\obj\Debug\ThreadsTask_1.pdb

@@ -1,0 +1,18 @@
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\bin\Debug\Task 4.exe.config
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\bin\Debug\Task 4.exe
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\bin\Debug\Task 4.pdb
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\obj\Debug\Task_4.FormMain.resources
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\obj\Debug\Task_4.Properties.Resources.resources
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\obj\Debug\Task 4.csproj.GenerateResource.Cache
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\obj\Debug\Task 4.exe
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\obj\Debug\Task 4.pdb
+D:\PROGRAMMING\5 sem\OS\Task 4\Task 4\obj\Debug\Task 4.csprojResolveAssemblyReference.cache
+H:\ОС 3 курс\Агеев\Task 4\Task 4\bin\Debug\Task 4.exe.config
+H:\ОС 3 курс\Агеев\Task 4\Task 4\obj\Debug\Task 4.exe
+H:\ОС 3 курс\Агеев\Task 4\Task 4\obj\Debug\Task 4.pdb
+H:\ОС 3 курс\Агеев\Task 4\Task 4\bin\Debug\Task 4.exe
+H:\ОС 3 курс\Агеев\Task 4\Task 4\bin\Debug\Task 4.pdb
+H:\ОС 3 курс\Агеев\Task 4\Task 4\obj\Debug\Task 4.csprojResolveAssemblyReference.cache
+H:\ОС 3 курс\Агеев\Task 4\Task 4\obj\Debug\Task_4.FormMain.resources
+H:\ОС 3 курс\Агеев\Task 4\Task 4\obj\Debug\Task_4.Properties.Resources.resources
+H:\ОС 3 курс\Агеев\Task 4\Task 4\obj\Debug\Task 4.csproj.GenerateResource.Cache

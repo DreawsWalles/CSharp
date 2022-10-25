@@ -1,0 +1,43 @@
+C:\программы\os2\os2\bin\Debug\os2.exe
+C:\программы\os2\os2\bin\Debug\os2.pdb
+C:\программы\os2\os2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\программы\os2\os2\obj\x86\Debug\os2.FormMain.resources
+C:\программы\os2\os2\obj\x86\Debug\os2.Properties.Resources.resources
+C:\программы\os2\os2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\программы\os2\os2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\программы\os2\os2\obj\x86\Debug\os2.exe
+C:\программы\os2\os2\obj\x86\Debug\os2.pdb
+X:\My Documents\3kurs\os2\os2\obj\x86\Debug\os2.exe
+X:\My Documents\3kurs\os2\os2\obj\x86\Debug\os2.pdb
+X:\My Documents\3kurs\os2\os2\bin\Debug\os2.exe
+X:\My Documents\3kurs\os2\os2\bin\Debug\os2.pdb
+X:\My Documents\3kurs\os2\os2\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\My Documents\3kurs\os2\os2\obj\x86\Debug\os2.FormMain.resources
+X:\My Documents\3kurs\os2\os2\obj\x86\Debug\os2.Properties.Resources.resources
+X:\My Documents\3kurs\os2\os2\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\My Documents\3kurs\os2\os2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Фёдор\Desktop\os2\os2\os2\obj\x86\Debug\os2.exe
+C:\Users\Фёдор\Desktop\os2\os2\os2\obj\x86\Debug\os2.pdb
+C:\Users\Фёдор\Desktop\os2\os2\os2\bin\Debug\os2.exe
+C:\Users\Фёдор\Desktop\os2\os2\os2\bin\Debug\os2.pdb
+C:\Users\Фёдор\Desktop\os2\os2\os2\obj\x86\Debug\os2.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\os2\os2\os2\obj\x86\Debug\os2.FormMain.resources
+C:\Users\Фёдор\Desktop\os2\os2\os2\obj\x86\Debug\os2.Properties.Resources.resources
+C:\Users\Фёдор\Desktop\os2\os2\os2\obj\x86\Debug\os2.csproj.GenerateResource.Cache
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\obj\x86\Debug\os2.exe
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\obj\x86\Debug\os2.pdb
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\bin\Debug\os2.exe
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\bin\Debug\os2.pdb
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\obj\x86\Debug\os2.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\obj\x86\Debug\os2.FormMain.resources
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\obj\x86\Debug\os2.Properties.Resources.resources
+C:\Users\Фёдор\Documents\Visual Studio 2015\Projects\OS2\os2\obj\x86\Debug\os2.csproj.GenerateResource.Cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\bin\Debug\os2.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\bin\Debug\os2.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\obj\x86\Debug\os2.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\obj\x86\Debug\os2.FormMain.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\obj\x86\Debug\os2.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\obj\x86\Debug\os2.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\obj\x86\Debug\os2.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\obj\x86\Debug\os2.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Лебедев\OS2\os2\obj\x86\Debug\os2.pdb

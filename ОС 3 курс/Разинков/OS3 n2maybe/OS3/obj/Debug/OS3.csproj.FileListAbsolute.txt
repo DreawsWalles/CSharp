@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\bin\Debug\OS3.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\bin\Debug\OS3.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\bin\Debug\OS3.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\obj\Debug\OS3.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\obj\Debug\OS3.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\obj\Debug\OS3.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\obj\Debug\OS3.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\obj\Debug\OS3.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS3\OS3\obj\Debug\OS3.FormMain.resources

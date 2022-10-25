@@ -1,0 +1,42 @@
+c:\users\son\documents\visual studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csprojResolveAssemblyReference.cache
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.Form1.resources
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csproj.GenerateResource.Cache
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Son\Documents\Visual Studio 2013\Projects\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csprojResolveAssemblyReference.cache
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.Form1.resources
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\Punisher\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csproj.GenerateResource.Cache
+C:\Users\Роман\Desktop\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Роман\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Роман\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csprojResolveAssemblyReference.cache
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csproj.GenerateResource.Cache
+C:\Users\Застрожнова\Desktop\Рома\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.main_frm.resources
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csprojResolveAssemblyReference.cache
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.main_frm.resources
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\ThreadsTask_1\obj\Debug\ThreadsTask_1.csproj.GenerateResource.Cache
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\ThreadsTask_1.pdb

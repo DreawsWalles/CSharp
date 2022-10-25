@@ -1,0 +1,28 @@
+D:\Лабы\ОС\task224_os\task224_os\bin\Debug\task224_os.exe.config
+D:\Лабы\ОС\task224_os\task224_os\bin\Debug\task224_os.exe
+D:\Лабы\ОС\task224_os\task224_os\bin\Debug\task224_os.pdb
+D:\Лабы\ОС\task224_os\task224_os\obj\Debug\task224_os.csprojResolveAssemblyReference.cache
+D:\Лабы\ОС\task224_os\task224_os\obj\Debug\task224_os.FormMain.resources
+D:\Лабы\ОС\task224_os\task224_os\obj\Debug\task224_os.Properties.Resources.resources
+D:\Лабы\ОС\task224_os\task224_os\obj\Debug\task224_os.csproj.GenerateResource.Cache
+D:\Лабы\ОС\task224_os\task224_os\obj\Debug\task224_os.exe
+D:\Лабы\ОС\task224_os\task224_os\obj\Debug\task224_os.pdb
+D:\Лабы\ОС\task224_os — копия\task224_os\bin\Debug\task224_os.exe.config
+D:\Лабы\ОС\task224_os — копия\task224_os\obj\Debug\task224_os.exe
+D:\Лабы\ОС\task224_os — копия\task224_os\obj\Debug\task224_os.pdb
+D:\Лабы\ОС\task224_os — копия\task224_os\obj\Debug\task224_os.csprojResolveAssemblyReference.cache
+D:\Лабы\ОС\task224_os — копия\task224_os\obj\Debug\task224_os.FormMain.resources
+D:\Лабы\ОС\task224_os — копия\task224_os\obj\Debug\task224_os.Properties.Resources.resources
+D:\Лабы\ОС\task224_os — копия\task224_os\obj\Debug\task224_os.csproj.GenerateResource.Cache
+D:\Лабы\ОС\task224_os — копия\task224_os\bin\Debug\task224_os.exe
+D:\Лабы\ОС\task224_os — копия\task224_os\bin\Debug\task224_os.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\bin\Debug\task224_os.exe.config
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\bin\Debug\task224_os.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\bin\Debug\task224_os.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\obj\Debug\task224_os.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\obj\Debug\task224_os.FormMain.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\obj\Debug\task224_os.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\obj\Debug\task224_os.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\obj\Debug\task224_os.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\obj\Debug\task224_os.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Безумова\task224_os\task224_os\obj\Debug\task224_os.pdb

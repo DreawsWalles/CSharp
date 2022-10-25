@@ -1,0 +1,19 @@
+G:\институт\3 курс\ос\Task1\Task1\bin\Debug\Task1.exe.config
+G:\институт\3 курс\ос\Task1\Task1\bin\Debug\Task1.exe
+G:\институт\3 курс\ос\Task1\Task1\bin\Debug\Task1.pdb
+G:\институт\3 курс\ос\Task1\Task1\obj\Debug\Task1.Form1.resources
+G:\институт\3 курс\ос\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+G:\институт\3 курс\ос\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+G:\институт\3 курс\ос\Task1\Task1\obj\Debug\Task1.exe
+G:\институт\3 курс\ос\Task1\Task1\obj\Debug\Task1.pdb
+G:\институт\3 курс\ос\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Нехороших\Task1\Task1\obj\Debug\Task1.pdb

@@ -1,0 +1,18 @@
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\bin\Debug\OS_task2_number14.exe.config
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\bin\Debug\OS_task2_number14.exe
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\bin\Debug\OS_task2_number14.pdb
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\obj\Debug\OS_task2_number14.FormMain.resources
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\obj\Debug\OS_task2_number14.Properties.Resources.resources
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\obj\Debug\OS_task2_number14.csproj.GenerateResource.Cache
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\obj\Debug\OS_task2_number14.exe
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task2_number14\OS_task2_number14\obj\Debug\OS_task2_number14.pdb
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14\OS_task2_number14\obj\Debug\OS_task2_number14.csprojResolveAssemblyReference.cache
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\bin\Debug\OS_task2_number14.exe.config
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\obj\Debug\OS_task2_number14.exe
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\obj\Debug\OS_task2_number14.pdb
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\bin\Debug\OS_task2_number14.exe
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\bin\Debug\OS_task2_number14.pdb
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\obj\Debug\OS_task2_number14.csprojResolveAssemblyReference.cache
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\obj\Debug\OS_task2_number14.FormMain.resources
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\obj\Debug\OS_task2_number14.Properties.Resources.resources
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task2_number14 — копия\OS_task2_number14\obj\Debug\OS_task2_number14.csproj.GenerateResource.Cache

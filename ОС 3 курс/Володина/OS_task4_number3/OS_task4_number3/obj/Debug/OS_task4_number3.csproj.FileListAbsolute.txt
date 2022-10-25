@@ -1,0 +1,28 @@
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\bin\Debug\OS_task4_number3.exe.config
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\bin\Debug\OS_task4_number3.exe
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\bin\Debug\OS_task4_number3.pdb
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.csprojResolveAssemblyReference.cache
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.FormMain.resources
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.Properties.Resources.resources
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.csproj.GenerateResource.Cache
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.exe
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.pdb
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\bin\Debug\OS_task4_number3.exe.config
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\obj\Debug\OS_task4_number3.exe
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\obj\Debug\OS_task4_number3.pdb
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\bin\Debug\OS_task4_number3.exe
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\bin\Debug\OS_task4_number3.pdb
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\obj\Debug\OS_task4_number3.csprojResolveAssemblyReference.cache
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\obj\Debug\OS_task4_number3.FormMain.resources
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\obj\Debug\OS_task4_number3.Properties.Resources.resources
+C:\Users\Маргарита\Documents\Visual Studio 2015\Projects\OS_task4_number3_without_threads\OS_task4_number3\obj\Debug\OS_task4_number3.csproj.GenerateResource.Cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\bin\Debug\OS_task4_number3.exe.config
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\bin\Debug\OS_task4_number3.exe
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\bin\Debug\OS_task4_number3.pdb
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.FormMain.resources
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.exe
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Володина\OS_task4_number3\OS_task4_number3\obj\Debug\OS_task4_number3.pdb

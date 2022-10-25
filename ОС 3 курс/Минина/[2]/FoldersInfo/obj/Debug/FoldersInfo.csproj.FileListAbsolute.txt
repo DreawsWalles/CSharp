@@ -1,0 +1,49 @@
+D:\Projects\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe.config
+D:\Projects\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe
+D:\Projects\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.pdb
+D:\Projects\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.mainForm.resources
+D:\Projects\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.Properties.Resources.resources
+D:\Projects\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.csproj.GenerateResource.Cache
+D:\Projects\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.exe
+D:\Projects\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.pdb
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe.config
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.pdb
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.mainForm.resources
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.Properties.Resources.resources
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.csproj.GenerateResource.Cache
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.exe
+C:\Users\Роман\Desktop\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.pdb
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe.config
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.exe
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.pdb
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.pdb
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.csprojResolveAssemblyReference.cache
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.mainForm.resources
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.Properties.Resources.resources
+E:\Рабочий стол 28.10.2016\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.csproj.GenerateResource.Cache
+C:\Users\Застрожнова\Desktop\Рома\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe.config
+C:\Users\Застрожнова\Desktop\Рома\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.exe
+C:\Users\Застрожнова\Desktop\Рома\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.pdb
+C:\Users\admin\Desktop\5 семестр\ОСИТ\2\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe.config
+C:\Users\admin\Desktop\5 семестр\ОСИТ\2\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.exe
+C:\Users\admin\Desktop\5 семестр\ОСИТ\2\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.pdb
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe.config
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.exe
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.pdb
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.exe
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\bin\Debug\FoldersInfo.pdb
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.mainForm.resources
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.Properties.Resources.resources
+C:\Users\admin\Desktop\5 семестр\ОСИТ\FoldersInfo\FoldersInfo\obj\Debug\FoldersInfo.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\bin\Debug\FoldersInfo.exe.config
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\obj\Debug\FoldersInfo.exe
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\obj\Debug\FoldersInfo.pdb
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\bin\Debug\FoldersInfo.exe
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\bin\Debug\FoldersInfo.pdb
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\obj\Debug\FoldersInfo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\obj\Debug\FoldersInfo.mainForm.resources
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\obj\Debug\FoldersInfo.Properties.Resources.resources
+C:\Users\admin\Desktop\5 семестр\ОСИТ\[2]\FoldersInfo\obj\Debug\FoldersInfo.csproj.GenerateResource.Cache

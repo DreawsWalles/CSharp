@@ -1,0 +1,8 @@
+E:\NewerFiles\NewerFiles\bin\Debug\NewerFiles.exe.config
+E:\NewerFiles\NewerFiles\bin\Debug\NewerFiles.exe
+E:\NewerFiles\NewerFiles\bin\Debug\NewerFiles.pdb
+E:\NewerFiles\NewerFiles\obj\Debug\NewerFiles.MainForm.resources
+E:\NewerFiles\NewerFiles\obj\Debug\NewerFiles.Properties.Resources.resources
+E:\NewerFiles\NewerFiles\obj\Debug\NewerFiles.csproj.GenerateResource.Cache
+E:\NewerFiles\NewerFiles\obj\Debug\NewerFiles.exe
+E:\NewerFiles\NewerFiles\obj\Debug\NewerFiles.pdb

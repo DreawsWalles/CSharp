@@ -1,0 +1,9 @@
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\bin\Debug\Task1.exe.config
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\bin\Debug\Task1.exe
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\bin\Debug\Task1.pdb
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\obj\Debug\Task1.FormMain.resources
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\obj\Debug\Task1.exe
+E:\My Files\Учеба\3 курс (5 семестр)\ОС\Task1\Task1\obj\Debug\Task1.pdb

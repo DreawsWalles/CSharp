@@ -1,0 +1,9 @@
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\bin\Debug\OS4.exe.config
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\bin\Debug\OS4.exe
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\bin\Debug\OS4.pdb
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\obj\Debug\OS4.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\obj\Debug\OS4.main_form.resources
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\obj\Debug\OS4.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\obj\Debug\OS4.csproj.GenerateResource.Cache
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\obj\Debug\OS4.exe
+C:\Users\Анастасия\Desktop\3.1\операционные системы\OS4\OS4\obj\Debug\OS4.pdb

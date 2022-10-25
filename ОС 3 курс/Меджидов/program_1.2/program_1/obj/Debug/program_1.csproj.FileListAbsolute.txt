@@ -1,0 +1,48 @@
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1\program_1\bin\Debug\program_1.exe.config
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\bin\Debug\program_1.exe.config
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\bin\Debug\program_1.exe
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\bin\Debug\program_1.pdb
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\obj\Debug\program_1.Properties.Resources.resources
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\obj\Debug\program_1.csproj.GenerateResource.Cache
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\obj\Debug\program_1.exe
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\obj\Debug\program_1.pdb
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\obj\Debug\program_1.FormMain.resources
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.0\program_1\obj\Debug\program_1.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\bin\Debug\program_1.exe.config
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\obj\Debug\program_1.exe
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\obj\Debug\program_1.pdb
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\bin\Debug\program_1.exe
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\bin\Debug\program_1.pdb
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\obj\Debug\program_1.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\obj\Debug\program_1.FormMain.resources
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\obj\Debug\program_1.Properties.Resources.resources
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.1\program_1\obj\Debug\program_1.csproj.GenerateResource.Cache
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\bin\Debug\program_1.exe.config
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\obj\Debug\program_1.exe
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\obj\Debug\program_1.pdb
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\bin\Debug\program_1.exe
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\bin\Debug\program_1.pdb
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\obj\Debug\program_1.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\obj\Debug\program_1.FormMain.resources
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\obj\Debug\program_1.Properties.Resources.resources
+C:\Users\Ruslan\Desktop\Лабы\операционные  системы 5\program_1.2\program_1\obj\Debug\program_1.csproj.GenerateResource.Cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\bin\Debug\program_1.exe.config
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\bin\Debug\program_1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\bin\Debug\program_1.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.FormMain.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.pdb
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\bin\Debug\program_1.exe.config
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\bin\Debug\program_1.exe
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\bin\Debug\program_1.pdb
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.csproj.AssemblyReference.cache
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.FormMain.resources
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.Properties.Resources.resources
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.csproj.GenerateResource.cache
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.csproj.CoreCompileInputs.cache
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.exe
+C:\Users\spits\Desktop\ОС 3 курс\Меджидов\program_1.2\program_1\obj\Debug\program_1.pdb

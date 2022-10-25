@@ -1,0 +1,38 @@
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\bin\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\ThreadsTask_1.main_frm.resources
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\Застрожнова\Desktop\ThreadsTask_1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+C:\Users\Застрожнова\Desktop\Task1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\Застрожнова\Desktop\Task1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\Task1\Task1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\Task1\Task1\bin\Debug\ThreadsTask_1.exe
+C:\Users\Застрожнова\Desktop\Task1\Task1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\Застрожнова\Desktop\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Застрожнова\Desktop\Task1\Task1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\Застрожнова\Desktop\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+C:\Users\Застрожнова\Desktop\Task1\Task1\obj\Debug\Task1.main_frm.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\bin\Debug\ThreadsTask_1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.main_frm.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\ThreadsTask_1.pdb
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\bin\Debug\ThreadsTask_1.exe.config
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\bin\Debug\ThreadsTask_1.exe
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\bin\Debug\ThreadsTask_1.pdb
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.main_frm.resources
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\ThreadsTask_1.Properties.Resources.resources
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\ThreadsTask_1.exe
+C:\Users\spits\Desktop\ОС 3 курс\Застрожнова\Task1\Task1\obj\Debug\ThreadsTask_1.pdb

@@ -1,0 +1,9 @@
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\bin\Debug\Task3_ex17.exe.config
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\bin\Debug\Task3_ex17.exe
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\bin\Debug\Task3_ex17.pdb
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\obj\Debug\Task3_ex17.csprojResolveAssemblyReference.cache
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\obj\Debug\Task3_ex17.Properties.Resources.resources
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\obj\Debug\Task3_ex17.csproj.GenerateResource.Cache
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\obj\Debug\Task3_ex17.exe
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\obj\Debug\Task3_ex17.pdb
+D:\Лабы\ОС\Task3_ex17\Task3_ex17\obj\Debug\Task3_ex17.Form_main.resources

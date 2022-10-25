@@ -1,0 +1,15 @@
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+E:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\OS\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+F:\Разработка\C#\Курс 5\OS\TaskManager (1)\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+F:\Разработка\C#\Курс 5\OS\TaskManager (1)\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+F:\Разработка\C#\Курс 5\OS\TaskManager (1)\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+H:\ОС 3 курс\Маньшин\TaskManager (1)\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+H:\ОС 3 курс\Маньшин\TaskManager (1)\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+H:\ОС 3 курс\Маньшин\TaskManager (1)\TaskManager\TaskManager\obj\Debug\TaskManager.pdb

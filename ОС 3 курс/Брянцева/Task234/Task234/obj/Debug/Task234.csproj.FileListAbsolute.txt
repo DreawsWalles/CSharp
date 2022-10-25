@@ -1,0 +1,27 @@
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\bin\Debug\OS_task1_number114.exe.config
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\bin\Debug\OS_task1_number114.exe
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\bin\Debug\OS_task1_number114.pdb
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\obj\Debug\Task234.csprojResolveAssemblyReference.cache
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\obj\Debug\Task234.FormMain.resources
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\obj\Debug\OS_task1_number114.Properties.Resources.resources
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\obj\Debug\Task234.csproj.GenerateResource.Cache
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\obj\Debug\OS_task1_number114.exe
+D:\Документы\Домашние задания\5 семестр\ОСиП (Вощинская)\Новая папка\Лина\Вощинская\Task234\Task234\obj\Debug\OS_task1_number114.pdb
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\bin\Debug\OS_task1_number114.exe.config
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\obj\Debug\OS_task1_number114.exe
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\obj\Debug\OS_task1_number114.pdb
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\bin\Debug\OS_task1_number114.exe
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\bin\Debug\OS_task1_number114.pdb
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\obj\Debug\Task234.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\obj\Debug\Task234.FormMain.resources
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\obj\Debug\OS_task1_number114.Properties.Resources.resources
+\\psf\Home\Downloads\Lina\Лина\Вощинская\Task234\Task234\obj\Debug\Task234.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\bin\Debug\OS_task1_number114.exe.config
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\obj\Debug\OS_task1_number114.exe
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\obj\Debug\OS_task1_number114.pdb
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\bin\Debug\OS_task1_number114.exe
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\bin\Debug\OS_task1_number114.pdb
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\obj\Debug\Task234.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\obj\Debug\Task234.FormMain.resources
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\obj\Debug\OS_task1_number114.Properties.Resources.resources
+\\psf\Home\Documents\Лабы\C#\Task234\Task234\obj\Debug\Task234.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\bin\Debug\OS_task1_number114.exe.config
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\bin\Debug\OS_task1_number114.exe
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\bin\Debug\OS_task1_number114.pdb
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\obj\Debug\OS_task1_number114.csprojResolveAssemblyReference.cache
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\obj\Debug\OS_task1_number114.FormMain.resources
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\obj\Debug\OS_task1_number114.Properties.Resources.resources
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\obj\Debug\OS_task1_number114.csproj.GenerateResource.Cache
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\obj\Debug\OS_task1_number114.exe
+c:\users\маргарита\documents\visual studio 2015\Projects\OS_task1_number114\OS_task1_number114\obj\Debug\OS_task1_number114.pdb

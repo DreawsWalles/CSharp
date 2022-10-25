@@ -1,0 +1,19 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\bin\Debug\OS1.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\obj\Debug\OS1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\obj\Debug\OS1.FormMain.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\obj\Debug\OS1.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\obj\Debug\OS1.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\bin\Debug\OS1.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\bin\Debug\OS1.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\obj\Debug\OS1.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OS\OS1\OS1\obj\Debug\OS1.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\bin\Debug\OS1.exe.config
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\bin\Debug\OS1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\bin\Debug\OS1.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\obj\Debug\OS1.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\obj\Debug\OS1.FormMain.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\obj\Debug\OS1.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\obj\Debug\OS1.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\obj\Debug\OS1.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Разинков\OS1\OS1\obj\Debug\OS1.pdb

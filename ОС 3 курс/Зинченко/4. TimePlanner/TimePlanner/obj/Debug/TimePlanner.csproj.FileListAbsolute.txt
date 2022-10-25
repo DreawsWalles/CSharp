@@ -1,0 +1,18 @@
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\bin\Debug\TimePlanner.exe.config
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\bin\Debug\TimePlanner.exe
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\bin\Debug\TimePlanner.pdb
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\obj\Debug\TimePlanner.csprojResolveAssemblyReference.cache
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\obj\Debug\TimePlanner.MainForm.resources
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\obj\Debug\TimePlanner.Properties.Resources.resources
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\obj\Debug\TimePlanner.csproj.GenerateResource.Cache
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\obj\Debug\TimePlanner.exe
+c:\users\m1dery\documents\visual studio 2015\Projects\TimePlanner\TimePlanner\obj\Debug\TimePlanner.pdb
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\bin\Debug\TimePlanner.exe.config
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\obj\Debug\TimePlanner.exe
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\obj\Debug\TimePlanner.pdb
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\bin\Debug\TimePlanner.exe
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\bin\Debug\TimePlanner.pdb
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\obj\Debug\TimePlanner.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\obj\Debug\TimePlanner.MainForm.resources
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\obj\Debug\TimePlanner.Properties.Resources.resources
+C:\Users\Mihail\Downloads\TimePlanner\TimePlanner\TimePlanner\obj\Debug\TimePlanner.csproj.GenerateResource.Cache

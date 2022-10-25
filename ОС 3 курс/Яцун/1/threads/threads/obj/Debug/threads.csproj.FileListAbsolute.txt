@@ -1,0 +1,28 @@
+D:\учеба\OS\(1)\threads\threads\bin\Debug\threads.exe.config
+D:\учеба\OS\(1)\threads\threads\obj\Debug\threads.csprojResolveAssemblyReference.cache
+D:\учеба\OS\(1)\threads\threads\obj\Debug\threads.MainForm.resources
+D:\учеба\OS\(1)\threads\threads\obj\Debug\threads.Properties.Resources.resources
+D:\учеба\OS\(1)\threads\threads\obj\Debug\threads.csproj.GenerateResource.Cache
+D:\учеба\OS\(1)\threads\threads\bin\Debug\threads.exe
+D:\учеба\OS\(1)\threads\threads\bin\Debug\threads.pdb
+D:\учеба\OS\(1)\threads\threads\obj\Debug\threads.exe
+D:\учеба\OS\(1)\threads\threads\obj\Debug\threads.pdb
+C:\учеба\OS\(1)\threads\threads\bin\Debug\threads.exe.config
+C:\учеба\OS\(1)\threads\threads\obj\Debug\threads.exe
+C:\учеба\OS\(1)\threads\threads\obj\Debug\threads.pdb
+C:\учеба\OS\(1)\threads\threads\bin\Debug\threads.exe
+C:\учеба\OS\(1)\threads\threads\bin\Debug\threads.pdb
+C:\учеба\OS\(1)\threads\threads\obj\Debug\threads.csprojResolveAssemblyReference.cache
+C:\учеба\OS\(1)\threads\threads\obj\Debug\threads.MainForm.resources
+C:\учеба\OS\(1)\threads\threads\obj\Debug\threads.Properties.Resources.resources
+C:\учеба\OS\(1)\threads\threads\obj\Debug\threads.csproj.GenerateResource.Cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\bin\Debug\threads.exe.config
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\bin\Debug\threads.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\bin\Debug\threads.pdb
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\obj\Debug\threads.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\obj\Debug\threads.MainForm.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\obj\Debug\threads.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\obj\Debug\threads.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\obj\Debug\threads.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\obj\Debug\threads.exe
+C:\Users\812675\Desktop\Лабы\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Яцун\1\threads\threads\obj\Debug\threads.pdb

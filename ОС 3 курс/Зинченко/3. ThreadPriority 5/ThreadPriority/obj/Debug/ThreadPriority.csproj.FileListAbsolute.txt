@@ -1,0 +1,28 @@
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.pdb
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.Form1.resources
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.Properties.Resources.resources
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.GenerateResource.Cache
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.exe
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.pdb
+c:\users\m1dery\documents\visual studio 2015\Projects\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.exe
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.pdb
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.pdb
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.Form1.resources
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.Properties.Resources.resources
+C:\Users\Mihail\Downloads\Kuck\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.GenerateResource.Cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\bin\Debug\ThreadPriority.exe
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\bin\Debug\ThreadPriority.pdb
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\obj\Debug\ThreadPriority.csprojAssemblyReference.cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\obj\Debug\ThreadPriority.Form1.resources
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\obj\Debug\ThreadPriority.Properties.Resources.resources
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\obj\Debug\ThreadPriority.csproj.GenerateResource.cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\obj\Debug\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\obj\Debug\ThreadPriority.exe
+C:\Users\812675\Desktop\Лабы\Лабы_3_Курс\3курс1сем_материал чужой\ОС 3 курс\ОС 3 курс\Зинченко\3. ThreadPriority 5\ThreadPriority\obj\Debug\ThreadPriority.pdb

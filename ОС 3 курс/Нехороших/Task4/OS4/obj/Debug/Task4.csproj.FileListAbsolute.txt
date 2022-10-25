@@ -1,0 +1,17 @@
+G:\институт\3 курс\OS4\OS4\bin\Debug\OS4.exe.config
+G:\институт\3 курс\OS4\OS4\bin\Debug\OS4.exe
+G:\институт\3 курс\OS4\OS4\bin\Debug\OS4.pdb
+G:\институт\3 курс\OS4\OS4\obj\Debug\Task4.main_form.resources
+G:\институт\3 курс\OS4\OS4\obj\Debug\Task4.Properties.Resources.resources
+G:\институт\3 курс\OS4\OS4\obj\Debug\Task4.csproj.GenerateResource.Cache
+G:\институт\3 курс\OS4\OS4\obj\Debug\OS4.exe
+G:\институт\3 курс\OS4\OS4\obj\Debug\OS4.pdb
+G:\институт\3 курс\ос\Task4\OS4\bin\Debug\OS4.exe.config
+G:\институт\3 курс\ос\Task4\OS4\bin\Debug\OS4.exe
+G:\институт\3 курс\ос\Task4\OS4\bin\Debug\OS4.pdb
+G:\институт\3 курс\ос\Task4\OS4\obj\Debug\Task4.main_form.resources
+G:\институт\3 курс\ос\Task4\OS4\obj\Debug\Task4.Properties.Resources.resources
+G:\институт\3 курс\ос\Task4\OS4\obj\Debug\Task4.csproj.GenerateResource.Cache
+G:\институт\3 курс\ос\Task4\OS4\obj\Debug\OS4.exe
+G:\институт\3 курс\ос\Task4\OS4\obj\Debug\OS4.pdb
+G:\институт\3 курс\ос\Task4\OS4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
