@@ -1,0 +1,27 @@
+E:\OneDrive\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.exe
+E:\OneDrive\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.deps.json
+E:\OneDrive\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.runtimeconfig.json
+E:\OneDrive\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.runtimeconfig.dev.json
+E:\OneDrive\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.dll
+E:\OneDrive\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.pdb
+E:\OneDrive\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.csprojAssemblyReference.cache
+E:\OneDrive\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.AssemblyInfoInputs.cache
+E:\OneDrive\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.AssemblyInfo.cs
+E:\OneDrive\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.csproj.CoreCompileInputs.cache
+E:\OneDrive\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.dll
+E:\OneDrive\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.pdb
+E:\OneDrive\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.genruntimeconfig.cache
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.exe
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.deps.json
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.runtimeconfig.json
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.runtimeconfig.dev.json
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.dll
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\bin\Debug\netcoreapp3.1\projectThree.pdb
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.AssemblyInfoInputs.cache
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.AssemblyInfo.cs
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.dll
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.pdb
+D:\OneDrive - ВГУ\C#\projectThree\projectThree\obj\Debug\netcoreapp3.1\projectThree.genruntimeconfig.cache
