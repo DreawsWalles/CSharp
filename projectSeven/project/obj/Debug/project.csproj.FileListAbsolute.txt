@@ -1,0 +1,23 @@
+E:\OneDrive\C#\projectSeven\main\project\bin\Debug\project.exe.config
+E:\OneDrive\C#\projectSeven\main\project\bin\Debug\project.exe
+E:\OneDrive\C#\projectSeven\main\project\bin\Debug\project.pdb
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.Form1.resources
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.exe
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.pdb
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.Form2.resources
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\bin\Debug\project.exe.config
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\bin\Debug\project.exe
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\bin\Debug\project.pdb
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.Form1.resources
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.Form2.resources
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.exe
+D:\OneDrive - ВГУ\C#\projectSeven\main\project\obj\Debug\project.pdb
