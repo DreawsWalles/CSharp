@@ -14,6 +14,16 @@ namespace project
         static FrmLoadOrCreateFile frmFile;
         static PictureBox color;
         static PictureBox color_dark;
+
+        static FrmMain frmMain;
+        static Color frmMainColorTextMenu;
+        static Color frmMainColorHoverItemMenu;
+        static Color frmMainColorBackColorMenu;
+        static Color frmMainColorTextTabPage;
+        static Color frmMainBackColorTabControl;
+        static Color frmMainBaclColorTabPage;
+        static Color frmMainBaclColorTabPageNoneActive;
+
         public static PictureBox Сolor { get { return copyPicture(color); } private set { } }
        
         static Designer()
@@ -383,5 +393,280 @@ namespace project
             }
         }
         //-----------------------------------------------------------//
+
+        //------------------Дизайн для формы FrmColor--------------------//
+        public static void DesignerFrmColor(FrmColor form, int design)
+        {
+            switch (design)
+            {
+                case 0:
+                    form.BackColor = Color.White;
+                    form.BtnAccept.ForeColor = Color.Black;
+                    form.BtnAccept.BackColor = Color.Gray;
+                    form.BtnAccept.FlatStyle = FlatStyle.System;
+                    form.BtnCancel.ForeColor = Color.Black;
+                    form.BtnCancel.BackColor = Color.Gray;
+                    form.BtnCancel.FlatStyle = FlatStyle.System;
+                    break;
+                case 1:
+                    form.BackColor = Color.FromArgb(45, 45, 48);
+                    form.BtnAccept.ForeColor = Color.White;
+                    form.BtnAccept.BackColor = Color.BlueViolet;
+                    form.BtnAccept.FlatStyle = FlatStyle.Flat;
+                    form.BtnCancel.ForeColor = Color.White;
+                    form.BtnCancel.BackColor = Color.BlueViolet;
+                    form.BtnCancel.FlatStyle = FlatStyle.Flat;
+                    break;
+                case 2:
+                    form.BackColor = Color.White;
+                    form.BtnAccept.ForeColor = Color.Black;
+                    form.BtnAccept.BackColor = Color.BlueViolet;
+                    form.BtnAccept.FlatStyle = FlatStyle.Flat;
+                    form.BtnCancel.ForeColor = Color.Black;
+                    form.BtnCancel.BackColor = Color.BlueViolet;
+                    form.BtnCancel.FlatStyle = FlatStyle.Flat;
+                    break;
+            }
+        }
+        //----------------------------------------------------------------//
+
+        //-----------------Дизайн для формы FrmMain-----------------------//
+        public static void DesinerFrmMain(FrmMain form, int design)
+        {
+            frmMain = form;
+            ToolStripMenuItem element = (ToolStripMenuItem)form.mainMenu.Items[0];
+            switch (design)
+            {
+                case 0:
+                    form.BackColor = Color.White;
+                    form.mainMenu.BackColor = Color.White;
+                    frmMainColorTextMenu = Color.Black;
+                    frmMainColorHoverItemMenu = Color.Gainsboro;
+                    frmMainColorBackColorMenu = Color.Beige;
+                    DesignerTabControls(form, design);
+                    break;
+                case 1:
+                    form.BackColor = Color.FromArgb(45, 45, 48);
+                    form.mainMenu.BackColor = Color.FromArgb(45, 45, 48);
+                    frmMainColorTextMenu = Color.White;
+                    frmMainColorHoverItemMenu = Color.BlueViolet;
+                    frmMainColorBackColorMenu = Color.FromArgb(28, 28, 28);
+                    DesignerTabControls(form, design);
+                    break;
+                case 2:
+                    form.BackColor = Color.White;
+                    form.mainMenu.BackColor = Color.White;
+                    frmMainColorTextMenu = Color.Black;
+                    frmMainColorHoverItemMenu = Color.BlueViolet;
+                    frmMainColorBackColorMenu = Color.Beige;
+                    DesignerTabControls(form, design);
+                    break;
+            }
+            form.mainMenu.Renderer = new NoHigthligthRenderer();
+            foreach (ToolStripMenuItem m in form.mainMenu.Items)
+            {
+                SetColor(m);
+            }
+            form.mainMenu.Renderer = new ToolStripProfessionalRenderer(new ChangeStyleItem());
+        }
+        public static void DesignerTabControls(FrmMain form, int design)
+        {
+            form.TabCtrl.DrawMode = TabDrawMode.OwnerDrawFixed;
+            form.TabCtrl.DrawItem += new DrawItemEventHandler(tabControl1_DrawItem);
+            switch (design)
+                {
+                case 0:
+                    frmMainBaclColorTabPage = Color.Gainsboro;
+                    frmMainBackColorTabControl = Color.White;
+                    frmMainColorTextTabPage = Color.Black;
+                    frmMainBaclColorTabPageNoneActive = Color.White;
+                    foreach (TabPage page in form.TabCtrl.TabPages)
+                    {
+                        Panel panel = (Panel)page.Controls[0];
+
+                        panel.BackColor = Color.White;
+                        panel.BorderStyle = BorderStyle.FixedSingle;
+                        panel.Size = new Size(form.TabCtrl.Width - 10, form.TabCtrl.Height - 32);
+
+                        foreach(Label element in panel.Controls)
+                        {
+                            element.BackColor = Color.Gainsboro;
+                            element.ForeColor = Color.Black;
+                        }
+                    }
+                    break;
+                case 1:
+                    frmMainBaclColorTabPage = Color.BlueViolet;
+                    frmMainBackColorTabControl = Color.FromArgb(45, 45, 48);
+                    frmMainColorTextTabPage = Color.White;
+                    frmMainBaclColorTabPageNoneActive = Color.FromArgb(45, 45, 48);
+                    foreach (TabPage page in form.TabCtrl.TabPages)
+                    {
+                        Panel panel = (Panel)page.Controls[0];
+
+                        panel.BackColor = Color.FromArgb(28, 28, 28);
+                        panel.BorderStyle = BorderStyle.None;
+                        panel.Size = new Size(form.TabCtrl.Width - 8, form.TabCtrl.Height - 32);
+
+                        foreach (Label element in panel.Controls)
+                        {
+                            element.BackColor = Color.BlueViolet;
+                            element.ForeColor = Color.White;
+                        }
+                    }
+                    break;
+                case 2:
+                    frmMainBaclColorTabPage = Color.BlueViolet;
+                    frmMainBackColorTabControl = Color.White;
+                    frmMainColorTextTabPage = Color.Black;
+                    frmMainBaclColorTabPageNoneActive = Color.White;
+                    foreach (TabPage page in form.TabCtrl.TabPages)
+                    {
+                        Panel panel = (Panel)page.Controls[0];
+
+                        panel.BackColor = Color.White;
+                        panel.BorderStyle = BorderStyle.FixedSingle;
+                        panel.Size = new Size(form.TabCtrl.Width - 10, form.TabCtrl.Height - 32);
+
+                        foreach (Label element in panel.Controls)
+                        {
+                            element.BackColor = Color.BlueViolet;
+                            element.ForeColor = Color.Black;
+                        }
+                    }
+                    break;
+            }
+        
+        }
+        private static void tabControl1_DrawItem(object sender, DrawItemEventArgs e)
+        {
+            // Привязать рабочую область
+            Rectangle rec01 = frmMain.TabCtrl.ClientRectangle;
+            // Устанавливаем цвет фона рабочего пространства
+            e.Graphics.FillRectangle(new SolidBrush(frmMainBackColorTabControl), rec01);
+
+            // Серый фон
+            SolidBrush back = new SolidBrush(frmMainBaclColorTabPage);
+            SolidBrush back_none_active = new SolidBrush(frmMainBaclColorTabPageNoneActive);
+            // синий шрифт
+            SolidBrush white = new SolidBrush(frmMainColorTextTabPage);
+            StringFormat sf = new StringFormat();
+            // Выравнивание текста по горизонтали / вертикали по центру
+            sf.Alignment = StringAlignment.Center;
+            sf.LineAlignment = StringAlignment.Center;
+
+            for (int i = 0; i < frmMain.TabCtrl.TabPages.Count; i++)
+            {
+                // Вкладка привязки
+                Rectangle rec = frmMain.TabCtrl.GetTabRect(i);
+                // Устанавливаем фон вкладки
+                if (frmMain.TabCtrl.SelectedIndex == i)
+                    e.Graphics.FillRectangle(back, rec);
+                else
+                    e.Graphics.FillRectangle(back_none_active, rec);
+
+                // Устанавливаем шрифт и цвет вкладки
+                e.Graphics.DrawString(frmMain.TabCtrl.TabPages[i].Text, new Font("Consolas", 10), white, rec, sf);
+            }
+        }
+        internal class NoHigthligthRenderer : ToolStripProfessionalRenderer
+        {
+            protected override void OnRenderMenuItemBackground(ToolStripItemRenderEventArgs e)
+            {
+                if (e.Item.OwnerItem == null)
+                    base.OnRenderMenuItemBackground(e);
+            }
+        }
+
+        private static void SetColor(ToolStripMenuItem item)
+        {
+            item.ForeColor = frmMainColorTextMenu;
+            foreach (ToolStripMenuItem it in item.DropDownItems)
+            {
+                SetColor(it);
+            }
+        }
+
+        public class ChangeStyleItem : ProfessionalColorTable
+        {
+            public override Color MenuItemSelected { get { return frmMainColorHoverItemMenu; } }
+            public override Color ToolStripBorder { get { return frmMainColorBackColorMenu; } }
+            public override Color ToolStripDropDownBackground { get { return frmMainColorBackColorMenu; } }
+            public override Color ImageMarginGradientBegin { get { return frmMainColorBackColorMenu; } }
+            public override Color ImageMarginGradientEnd { get { return frmMainColorBackColorMenu; } }
+            public override Color ImageMarginGradientMiddle { get { return frmMainColorBackColorMenu; } }
+            public override Color MenuItemSelectedGradientBegin { get { return frmMainColorHoverItemMenu; } }
+            public override Color MenuItemSelectedGradientEnd { get { return frmMainColorHoverItemMenu; } }
+            public override Color MenuItemPressedGradientBegin { get { return frmMainColorHoverItemMenu; } }
+            public override Color MenuItemPressedGradientMiddle { get { return frmMainColorHoverItemMenu; } }
+            public override Color MenuItemPressedGradientEnd { get { return frmMainColorHoverItemMenu; } }
+            public override Color MenuItemBorder { get { return frmMainColorHoverItemMenu; } }
+        }
+        //------------------------------------------------------------------//
+
+        //------------------Дизайн для формы frmInputFilm---------------------//
+        public static void DesignerFrmInputFilm(FrmInputFilm form, int design)
+        {
+            switch(design)
+            {
+                case 0:
+                    foreach (Label element in form.labels)
+                        element.ForeColor = Color.Black;
+                    form.BtnAdd.BackColor = Color.Gainsboro;
+                    form.BtnAdd.ForeColor = Color.Black;
+                    form.BackColor = Color.White;
+                    form.BtnMore_1.BackColor = Color.Gainsboro;
+                    form.BtnMore_1.ForeColor = Color.Black;
+                    form.BtnMore_2.BackColor = Color.Gainsboro;
+                    form.BtnMore_2.ForeColor = Color.Black;
+                    break;
+                case 1:
+                    form.BackColor = Color.FromArgb(45, 45, 48);
+                    foreach (Label element in form.labels)
+                        element.ForeColor = Color.White;
+                    form.BtnAdd.BackColor = Color.BlueViolet;
+                    form.BtnAdd.ForeColor = Color.White;
+                    form.BtnMore_1.BackColor = Color.BlueViolet;
+                    form.BtnMore_1.ForeColor = Color.White;
+                    form.BtnMore_2.BackColor = Color.BlueViolet;
+                    form.BtnMore_2.ForeColor = Color.White;
+                    break;
+                case 2:
+                    foreach (Label element in form.labels)
+                        element.ForeColor = Color.Black;
+                    form.BtnAdd.BackColor = Color.BlueViolet;
+                    form.BtnAdd.ForeColor = Color.Black;
+                    form.BackColor = Color.White;
+                    form.BtnMore_1.BackColor = Color.BlueViolet;
+                    form.BtnMore_1.ForeColor = Color.Black;
+                    form.BtnMore_2.BackColor = Color.BlueViolet;
+                    form.BtnMore_2.ForeColor = Color.Black;
+                    break;
+            }
+        }
+        //--------------------------------------------------------------------//
+
+        //-----------------Дизайн для формы FrnInput-------------------------//
+        public static void DesignerFrmInput(FrmInput form, int design)
+        {
+            switch(design)
+            {
+                case 0:
+                    form.BackColor = Color.White;
+                    form.BtnAccept.BackColor = Color.Gainsboro;
+                    form.BtnAccept.ForeColor = Color.Black;
+                    break;
+                case 1:
+                    form.BackColor =Color.FromArgb(45, 45, 48);
+                    form.BtnAccept.BackColor = Color.BlueViolet;
+                    form.BtnAccept.ForeColor = Color.White;
+                    break;
+                case 2:
+                    form.BackColor = Color.White;
+                    form.BtnAccept.BackColor = Color.BlueViolet;
+                    form.BtnAccept.ForeColor = Color.White;
+                    break;
+            }
+        }
     }
 }

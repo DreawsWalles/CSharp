@@ -46,7 +46,7 @@ namespace project
         List<DataHistory> List;
         bool IsEnglish;
         public int Count { get => List.Count; private set { } }
-        public History(bool isEnglish)
+        public History(bool isEnglish = true)
         {
             List = new List<DataHistory>();
             IsEnglish = isEnglish;
@@ -70,6 +70,23 @@ namespace project
             }
         }
 
+        public void Delete(string path)
+        {
+            for (int i = 0; i < List.Count; i++)
+            {
+                if (List[i].Path == path)
+                    List.RemoveAt(i);
+            }
+            //foreach(DataHistory element in List)
+            //{
+            //    if (element.Path == path)
+            //        List.Remove(element);
+            //}
+            FileStream file = new FileStream("System/History.bin", FileMode.OpenOrCreate);
+            foreach (DataHistory element in List)
+                element.Write(ref file);
+            file.Close();
+        }
         public DataHistory this[int index]
         {
             get
@@ -82,6 +99,10 @@ namespace project
         {
             List.Remove(node);
             List.Insert(0, node);
+            FileStream file = new FileStream("System/History.bin", FileMode.OpenOrCreate);
+            foreach (DataHistory element in List)
+                element.Write(ref file);
+            file.Close();
         }
         public void Add(DataHistory node)
         {

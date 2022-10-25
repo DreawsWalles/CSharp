@@ -51,8 +51,8 @@ namespace project
         public int type { get; set; }
         public string closeFormTitle { get; set; }
         public string closeFormMessage { get; set; }
-        string Name;
-        string path;
+        public string Name { get; private set; }
+        public string path { get; private set; }
         bool ok;
 
         Settings set;
@@ -196,6 +196,11 @@ namespace project
                 if (result == DialogResult.Yes)
                 {
                     DialogResult = DialogResult.OK;
+                    path = history[listBox1.SelectedIndex].Path;
+                    Name = history[listBox1.SelectedIndex].Name;
+                    StreamReader file = new StreamReader(path);
+                    type = Convert.ToInt32(file.ReadLine());
+                    file.Close();
                     history.Update(history[listBox1.SelectedIndex]);
                     Close();
                 }
@@ -338,7 +343,10 @@ namespace project
                 DialogResult result = MessageBox.Show(closeFormMessage, closeFormTitle,
                     MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (result == DialogResult.Yes)
+                {
+                    DialogResult = DialogResult.Cancel;
                     Close();
+                }
             }
         }
 

@@ -73,7 +73,7 @@ namespace project
         }
         public void Refresh()
         {
-            FileStream file = new FileStream("System/Settings.bin", FileMode.Create);
+            FileStream file = new FileStream("System/Settings.bin", FileMode.Open);
             if (file.Position != file.Length)
             {
                 Node = new SettingsNode();

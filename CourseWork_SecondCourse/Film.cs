@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.IO;
 
 namespace project
 {
+    [Serializable]
     public class Film : IComparable
     {
         public string Name { get; set; }
@@ -52,9 +55,34 @@ namespace project
         public int CompareTo(object obj)
         {
             Film film = (Film)(obj);
-            if (FilmStudio.CompareTo(film.FilmStudio) == 0)
-                return Director.CompareTo(film.Director);
-            return FilmStudio.CompareTo(film.FilmStudio);
+            return Duration.CompareTo(film.Duration);
+        }
+
+        //Запись объекта в файл
+        public void Write(FileStream fileStream)
+        {
+            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            binaryFormatter.Serialize(fileStream, this);
+        }
+
+        //Чтение объекта из файла
+        public Film Read(FileStream fileStream)
+        {
+            if (fileStream.Position == fileStream.Length)
+            {
+                return null;
+            }
+
+            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            Film toLoad = (Film)binaryFormatter.Deserialize(fileStream);
+            Name = toLoad.Name;
+            Date = toLoad.Date;
+            FilmStudio = toLoad.FilmStudio;
+            Director = toLoad.Director;
+            Duration = toLoad.Duration;
+            Prizes = toLoad.Prizes;
+            MainHeroes = toLoad.MainHeroes;
+            return this;
         }
     }
 }
