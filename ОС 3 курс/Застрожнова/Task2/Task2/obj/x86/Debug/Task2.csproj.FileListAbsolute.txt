@@ -1,9 +1,0 @@
-C:\Users\Застрожнова\Desktop\Task2\Task2\bin\Debug\Task2.exe.config
-C:\Users\Застрожнова\Desktop\Task2\Task2\bin\Debug\Task2.exe
-C:\Users\Застрожнова\Desktop\Task2\Task2\bin\Debug\Task2.pdb
-C:\Users\Застрожнова\Desktop\Task2\Task2\obj\x86\Debug\Task2.csprojResolveAssemblyReference.cache
-C:\Users\Застрожнова\Desktop\Task2\Task2\obj\x86\Debug\Task2.FormMain.resources
-C:\Users\Застрожнова\Desktop\Task2\Task2\obj\x86\Debug\Task2.Properties.Resources.resources
-C:\Users\Застрожнова\Desktop\Task2\Task2\obj\x86\Debug\Task2.csproj.GenerateResource.Cache
-C:\Users\Застрожнова\Desktop\Task2\Task2\obj\x86\Debug\Task2.exe
-C:\Users\Застрожнова\Desktop\Task2\Task2\obj\x86\Debug\Task2.pdb

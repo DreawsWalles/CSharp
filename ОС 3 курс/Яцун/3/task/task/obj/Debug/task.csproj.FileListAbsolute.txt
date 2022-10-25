@@ -1,9 +1,0 @@
-C:\учеба\OS\(3)\task\task\bin\Debug\task.exe.config
-C:\учеба\OS\(3)\task\task\obj\Debug\task.exe
-C:\учеба\OS\(3)\task\task\obj\Debug\task.pdb
-C:\учеба\OS\(3)\task\task\bin\Debug\task.exe
-C:\учеба\OS\(3)\task\task\bin\Debug\task.pdb
-C:\учеба\OS\(3)\task\task\obj\Debug\task.csprojResolveAssemblyReference.cache
-C:\учеба\OS\(3)\task\task\obj\Debug\task.MainForm.resources
-C:\учеба\OS\(3)\task\task\obj\Debug\task.Properties.Resources.resources
-C:\учеба\OS\(3)\task\task\obj\Debug\task.csproj.GenerateResource.Cache

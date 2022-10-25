@@ -1,9 +1,0 @@
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\bin\Debug\n2-1-4p86.exe.config
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\bin\Debug\n2-1-4p86.exe
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\bin\Debug\n2-1-4p86.pdb
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\obj\Debug\n2-1-4p86.csprojResolveAssemblyReference.cache
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\obj\Debug\n2_1_4p86.frmMain.resources
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\obj\Debug\n2_1_4p86.Properties.Resources.resources
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\obj\Debug\n2-1-4p86.csproj.GenerateResource.Cache
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\obj\Debug\n2-1-4p86.exe
-\\mac\home\documents\visual studio 2015\Projects\n2-1-4p86\n2-1-4p86\obj\Debug\n2-1-4p86.pdb
