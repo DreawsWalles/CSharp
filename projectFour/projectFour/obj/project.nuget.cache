@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sotUQFVFH3sEM/rLGoAKf63ZtQxZ6UhnpV0DY4aE64x1qjWQJCjgji/zFv3515zVHgDWMPnIkGuHHPFFOTvQ/g==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive - ВГУ\\C#\\projectFour\\projectFour\\projectFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spits\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+E:\OneDrive\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.exe
+E:\OneDrive\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.deps.json
+E:\OneDrive\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.runtimeconfig.json
+E:\OneDrive\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.runtimeconfig.dev.json
+E:\OneDrive\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.dll
+E:\OneDrive\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.pdb
+E:\OneDrive\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.csprojAssemblyReference.cache
+E:\OneDrive\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.AssemblyInfoInputs.cache
+E:\OneDrive\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.AssemblyInfo.cs
+E:\OneDrive\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.csproj.CoreCompileInputs.cache
+E:\OneDrive\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.dll
+E:\OneDrive\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.pdb
+E:\OneDrive\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.genruntimeconfig.cache
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.exe
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.deps.json
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.runtimeconfig.json
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.runtimeconfig.dev.json
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.dll
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\bin\Debug\netcoreapp3.1\projectFour.pdb
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.AssemblyInfoInputs.cache
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.AssemblyInfo.cs
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.dll
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.pdb
+D:\OneDrive - ВГУ\C#\projectFour\projectFour\obj\Debug\netcoreapp3.1\projectFour.genruntimeconfig.cache
