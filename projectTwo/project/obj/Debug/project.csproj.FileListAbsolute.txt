@@ -1,0 +1,15 @@
+E:\OneDrive\C#\projectTwo\project\bin\Debug\project.exe.config
+E:\OneDrive\C#\projectTwo\project\bin\Debug\project.exe
+E:\OneDrive\C#\projectTwo\project\bin\Debug\project.pdb
+E:\OneDrive\C#\projectTwo\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive\C#\projectTwo\project\obj\Debug\project.exe
+E:\OneDrive\C#\projectTwo\project\obj\Debug\project.pdb
+E:\OneDrive\C#\projectTwo\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\OneDrive - ВГУ\C#\projectTwo\project\bin\Debug\project.exe.config
+D:\OneDrive - ВГУ\C#\projectTwo\project\bin\Debug\project.exe
+D:\OneDrive - ВГУ\C#\projectTwo\project\bin\Debug\project.pdb
+D:\OneDrive - ВГУ\C#\projectTwo\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\projectTwo\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\projectTwo\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\projectTwo\project\obj\Debug\project.exe
+D:\OneDrive - ВГУ\C#\projectTwo\project\obj\Debug\project.pdb
