@@ -1,0 +1,26 @@
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\bin\Debug\project.exe.config
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\bin\Debug\project.exe
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\bin\Debug\project.pdb
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.exe
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.pdb
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormMain.resources
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormBigValues.resources
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormSmallValues.resources
+E:\OneDrive\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormGetN.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\bin\Debug\project.exe.config
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\bin\Debug\project.exe
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\bin\Debug\project.pdb
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormBigValues.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormGetN.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormMain.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.FormSmallValues.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.exe
+E:\OneDrive - ВГУ\C++(алгосы)\project.InternalSorting\project\obj\Debug\project.pdb
