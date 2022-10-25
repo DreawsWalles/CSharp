@@ -1,0 +1,11 @@
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\bin\Debug\TaskTwo.exe.config
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\bin\Debug\TaskTwo.exe
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\bin\Debug\TaskTwo.pdb
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.exe
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.pdb
+D:\OneDrive - ВГУ\C#\C#_2курс\project\TaskTwo\obj\Debug\TaskTwo.FormMain.resources
