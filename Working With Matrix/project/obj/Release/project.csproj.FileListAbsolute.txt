@@ -1,0 +1,13 @@
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\bin\Release\DBHistory.mdf
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\bin\Release\DBHistory_log.ldf
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\bin\Release\project.exe.config
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\bin\Release\project.exe
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\bin\Release\project.pdb
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.FormCreate.resources
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.FormMain.resources
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.exe
+D:\OneDrive - ВГУ\C#\project.NumericalMethods.WorkingWithMatrix\project\obj\Release\project.pdb
