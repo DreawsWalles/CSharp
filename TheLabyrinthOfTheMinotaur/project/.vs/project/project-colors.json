@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3912d27f-fad0-4b36-b22c-233f8762c4e7": {
+      "ProjectGuid": "3912d27f-fad0-4b36-b22c-233f8762c4e7",
+      "DisplayName": "project",
+      "ColorIndex": 0
+    },
+    "487365ad-f2b8-44f4-80d5-8c8eef5bf3bf": {
+      "ProjectGuid": "487365ad-f2b8-44f4-80d5-8c8eef5bf3bf",
+      "DisplayName": "WaveAlgorithmLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

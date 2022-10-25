@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "project.csproj", "{3912D27F-FAD0-4B36-B22C-233F8762C4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveAlgorithmLib", "WaveAlgorithm\WaveAlgorithmLib.csproj", "{487365AD-F2B8-44F4-80D5-8C8EEF5BF3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3912D27F-FAD0-4B36-B22C-233F8762C4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3912D27F-FAD0-4B36-B22C-233F8762C4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3912D27F-FAD0-4B36-B22C-233F8762C4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3912D27F-FAD0-4B36-B22C-233F8762C4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487365AD-F2B8-44F4-80D5-8C8EEF5BF3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487365AD-F2B8-44F4-80D5-8C8EEF5BF3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487365AD-F2B8-44F4-80D5-8C8EEF5BF3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487365AD-F2B8-44F4-80D5-8C8EEF5BF3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43F15E9F-1B0E-4FD0-9493-753794C706B4}
+	EndGlobalSection
+EndGlobal

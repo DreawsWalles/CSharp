@@ -1,0 +1,16 @@
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\bin\Debug\project.exe.config
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\bin\Debug\project.exe
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\bin\Debug\project.pdb
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.exe
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.pdb
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.FormMain.resources
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.FormInit.resources
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.FormRedraw.resources
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\bin\Debug\WaveAlgorithm.dll
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\bin\Debug\WaveAlgorithm.pdb
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\obj\Debug\project.csproj.CopyComplete

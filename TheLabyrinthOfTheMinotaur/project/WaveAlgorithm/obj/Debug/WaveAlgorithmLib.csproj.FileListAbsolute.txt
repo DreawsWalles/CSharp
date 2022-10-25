@@ -1,0 +1,6 @@
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\WaveAlgorithm\bin\Debug\WaveAlgorithm.dll
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\WaveAlgorithm\bin\Debug\WaveAlgorithm.pdb
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\WaveAlgorithm\obj\Debug\WaveAlgorithmLib.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\WaveAlgorithm\obj\Debug\WaveAlgorithm.dll
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\WaveAlgorithm\obj\Debug\WaveAlgorithm.pdb
+D:\OneDrive - ВГУ\C#\TheLabyrinthOfTheMinotaur\project\WaveAlgorithm\obj\Debug\WaveAlgorithmLib.csproj.AssemblyReference.cache
