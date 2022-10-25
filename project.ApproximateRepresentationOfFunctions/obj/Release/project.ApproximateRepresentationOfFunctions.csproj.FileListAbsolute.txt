@@ -1,0 +1,11 @@
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\bin\Release\project.ApproximateRepresentationOfFunctions.exe.config
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\bin\Release\project.ApproximateRepresentationOfFunctions.exe
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\bin\Release\project.ApproximateRepresentationOfFunctions.pdb
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.Form1.resources
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.Properties.Resources.resources
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.exe
+D:\OneDrive - ВГУ\C#\NumericalMethods\project.ApproximateRepresentationOfFunctions\obj\Release\project.ApproximateRepresentationOfFunctions.pdb
