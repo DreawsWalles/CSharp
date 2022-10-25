@@ -22,3 +22,11 @@ D:\OneDrive - ВГУ\C#\C#_2курс\project\project_main\obj\Debug\project_main
 D:\OneDrive - ВГУ\C#\C#_2курс\project\project_main\bin\Debug\TaskFour.exe
 D:\OneDrive - ВГУ\C#\C#_2курс\project\project_main\bin\Debug\TaskFour.pdb
 D:\OneDrive - ВГУ\C#\C#_2курс\project\project_main\bin\Debug\TaskFour.exe.config
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.csproj.AssemblyReference.cache
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.FormMain.resources
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.Properties.Resources.resources
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.csproj.GenerateResource.cache
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.csproj.CoreCompileInputs.cache
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.exe
+D:\OneDrive - ВГУ\CSharp\project_1\project_main\obj\Debug\project_main.pdb
